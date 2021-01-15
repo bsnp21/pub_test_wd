@@ -26593,7 +26593,7 @@ var _Max_struct={
             "14": "",
             "15": "",
             "16": "",
-            "17": "<ol><li>The disciples,  total 11, the imperfect number, with some doubted, but to do the mission of God. </li></ol>",
+            "17": "<ol><li>The disciples,  total 11, the imperfect number, with some doubted, but to do the mission of God. It’s not the disciples doing the job but Jesus Himself was doing the mission of God. </li></ol>",
             "18": "",
             "19": "",
             "20": ""
